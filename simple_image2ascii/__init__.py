@@ -1,1 +1,1 @@
-from ascii_engine import ASCIIEngine
+from .ascii_engine import ASCIIEngine
