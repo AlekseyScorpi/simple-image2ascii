@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# PyPI build
+build/
+dist/
+*.egg-info/
+
+# VS Code settings (если используешь)
+.vscode/
