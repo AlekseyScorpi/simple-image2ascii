@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="simple-image2ascii",
-    version="1.0.0",
+    version="0.0.1",
     author="Aleksey Timoshin",
     author_email="timoshin_aleksey02@mail.ru",
     description="A Python library for converting images and videos into ASCII art.",
